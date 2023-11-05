@@ -6,7 +6,7 @@ namespace github_minta
         {
             InitializeComponent();
 
-            label1.Text= "Ez egy pull teszt!";
+            label1.Text= "Második branch!";
         }
     }
 }
